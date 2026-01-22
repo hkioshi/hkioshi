@@ -1,6 +1,6 @@
 ## Olá Meu nome é Henrique Yamauchi 👋
 💻 Full-Stack Developer <br>
-✏️ Studying Typescript <br>
+✏️ Studying Asp.net <br>
 
 
 <div style="display: inline_block"><br>
